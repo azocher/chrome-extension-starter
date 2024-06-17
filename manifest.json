@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Hello, World! Chrome Extension",
+  "version": "1.0",
+  "description": "Adds a hello, world popup with a random emoji to the current page.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
