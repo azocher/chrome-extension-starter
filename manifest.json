@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Extension Example",
+  "version": "1.0",
+  "description": "Description of what this extension does.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
